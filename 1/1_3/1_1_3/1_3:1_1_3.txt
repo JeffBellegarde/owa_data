@@ -1,0 +1,13 @@
+vs "San Francisco Shock" "Los Angeles Gladiators"
+map 1 "volskaya" 3 4 https://www.twitch.tv/videos/246798460
+round 1 <start> <end>
+round 2 <start> <end>
+round 3 <start> <end>
+round 4 <start> <end>
+map 2 "numbani" 4 3 https://www.twitch.tv/videos/246808145
+round 1 <start> <end>
+round 2 <start> <end>
+round 3 <start> <end>
+round 4 <start> <end>
+map 3 "ilios" 2 0 https://www.twitch.tv/videos/246812389
+map 4 "junkertown" 3 1 https://www.twitch.tv/videos/246820251

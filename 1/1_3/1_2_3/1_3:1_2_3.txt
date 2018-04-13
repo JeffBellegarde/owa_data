@@ -1,0 +1,16 @@
+vs "London Spitfire" "Houston Outlaws"
+map 1 "temple-of-anubis" 2 1 https://www.twitch.tv/videos/247171890
+round 1 <start> <end>
+round 2 <start> <end>
+map 2 "blizzard-world" 1 2 https://www.twitch.tv/videos/247172144
+round 1 <start> <end>
+round 2 <start> <end>
+map 3 "nepal" 0 2 https://www.twitch.tv/videos/247175620
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "route-66" 1 0 https://www.twitch.tv/videos/247179795
+round 1 <start> <end>
+round 2 <start> <end>
+map 5 "oasis" 0 2 https://www.twitch.tv/videos/247185539
+round 1 <start> <end>
+round 2 <start> <end>

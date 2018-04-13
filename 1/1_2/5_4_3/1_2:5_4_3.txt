@@ -1,0 +1,20 @@
+vs "Boston Uprising" "Los Angeles Gladiators"
+map 1 "Volskaya Industries" 2 1 https://www.twitch.tv/videos/242541210
+round 1 <start> <end>
+round 2 <start> <end>
+map 2 "Lijiang Tower" 2 0 https://www.twitch.tv/videos/242543747
+round 1 <start> <end>
+round 2 <start> <end>
+map 3 "Hollywood" 3 4 https://www.twitch.tv/videos/242557171
+round 1 <start> <end>
+round 2 <start> <end>
+round 3 <start> <end>
+round 4 <start> <end>
+map 4 "Route 66" 4 5 https://www.twitch.tv/videos/242567286
+round 1 2:40 10:28
+round 2 12:25 19:10
+round 3 20:37 25:53
+round 4 27:20 29:55
+map 5 "Ilios" 2 1 https://www.twitch.tv/videos/242578254
+round 1 <start> <end>
+round 2 <start> <end>

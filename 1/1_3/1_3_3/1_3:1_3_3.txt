@@ -1,0 +1,18 @@
+vs "Seoul Dynasty" "San Francisco Shock"
+map 1 "temple-of-anubis" 2 1 https://www.twitch.tv/videos/247533487
+round 1 <start> <end>
+round 2 <start> <end>
+map 2 "blizzard-world" 4 3 https://www.twitch.tv/videos/247541353
+round 1 <start> <end>
+round 2 <start> <end>
+round 3 <start> <end>
+round 4 <start> <end>
+map 3 "ilios" 2 1 https://www.twitch.tv/videos/247550038
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "junkertown" 5 4 https://www.twitch.tv/videos/247561582
+round 1 2:44 7:04
+round 2 9:01 16:27
+round 3 17:54 19:40
+round 4 21:06 23:55
+

@@ -1,0 +1,18 @@
+vs "Philadelphia Fusion" "Boston Uprising"
+map 1 "volskaya" 1 2 https://www.twitch.tv/videos/247127355
+round 1 <start> <end>
+round 2 <start> <end>
+map 2 "blizzard-world" 4 3 https://www.twitch.tv/videos/247135395
+round 1 <start> <end>
+round 2 <start> <end>
+round 3 <start> <end>
+round 4 <start> <end>
+map 3 "ilios" 0 2 https://www.twitch.tv/videos/247142093
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "route-66" 3 2 https://www.twitch.tv/videos/247149206
+round 1 <start> <end>
+round 2 <start> <end>
+map 5 "oasis" 0 2 https://www.twitch.tv/videos/247157067
+round 1 <start> <end>
+round 2 <start> <end>

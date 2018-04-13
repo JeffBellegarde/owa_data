@@ -1,0 +1,17 @@
+vs "Los Angeles Gladiators" "Dallas Fuel"
+map 1 "volskaya" 3 2 https://www.twitch.tv/videos/247461120
+round 1 <start> <end>
+round 2 <start> <end>
+round 3 <start> <end>
+round 4 <start> <end>
+map 2 "blizzard-world" 3 2 https://www.twitch.tv/videos/247461906
+round 1 <start> <end>
+round 2 <start> <end>
+map 3 "nepal" 2 0 https://www.twitch.tv/videos/247469791
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "route-66" 3 4 https://www.twitch.tv/videos/247485298
+round 1 2:41 10:26
+round 2 12:21 20:55
+round 3 22:23 23:33
+round 4 25:00 26:44

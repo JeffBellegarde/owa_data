@@ -1,0 +1,10995 @@
+[
+{
+"type": "start",
+"offset": "00:01",
+"attacker": "Philadelphia Fusion"
+},
+{
+"type": "status",
+"time": "00:00",
+"payload_percent": 0.0,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:01",
+"payload_percent": 0.0,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:02",
+"payload_percent": 0.0,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:03",
+"payload_percent": 0.0057,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:04",
+"payload_percent": 0.0057,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:05",
+"payload_percent": 0.0171,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:06",
+"payload_percent": 0.0171,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:07",
+"payload_percent": 0.0171,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:08",
+"payload_percent": 0.0171,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:09",
+"payload_percent": 0.04,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:10",
+"payload_percent": 0.0514,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:11",
+"payload_percent": 0.0514,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:12",
+"payload_percent": 0.0514,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:13",
+"payload_percent": 0.0686,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:14",
+"payload_percent": 0.0686,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:15",
+"payload_percent": 0.0686,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:16",
+"payload_percent": 0.0857,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:17",
+"payload_percent": 0.0971,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:18",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:19",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:20",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:21",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:22",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:23",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:24",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:25",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:26",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:27",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:28",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:29",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:30",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:31",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:32",
+"payload_percent": 0.1371,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:33",
+"payload_percent": 0.1457,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:34",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:35",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:36",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:37",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:38",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:39",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:40",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:41",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:42",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:43",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:44",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:45",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:46",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:47",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:48",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:49",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:50",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:51",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:52",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:53",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:54",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:55",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": false
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:56",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": false
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:57",
+"payload_percent": 0.1829,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": false
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:58",
+"payload_percent": 0.1829,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "00:59",
+"payload_percent": 0.1829,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:00",
+"payload_percent": 0.1886,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:01",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:02",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:03",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:04",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:05",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:06",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:07",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:08",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:09",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:10",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:11",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:12",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:13",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:14",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:15",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:16",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": false
+}
+},
+{
+"type": "status",
+"time": "01:17",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": false
+}
+},
+{
+"type": "status",
+"time": "01:18",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": false
+}
+},
+{
+"type": "status",
+"time": "01:19",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": false
+}
+},
+{
+"type": "status",
+"time": "01:20",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": false
+}
+},
+{
+"type": "status",
+"time": "01:21",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": false
+}
+},
+{
+"type": "status",
+"time": "01:22",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": false
+}
+},
+{
+"type": "status",
+"time": "01:23",
+"payload_percent": 0.1943,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": false
+}
+},
+{
+"type": "status",
+"time": "01:24",
+"payload_percent": 0.1943,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": false
+}
+},
+{
+"type": "status",
+"time": "01:25",
+"payload_percent": 0.1943,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:26",
+"payload_percent": 0.1943,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:27",
+"payload_percent": 0.1857,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:28",
+"payload_percent": 0.1857,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:29",
+"payload_percent": 0.1857,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:30",
+"payload_percent": 0.1857,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:31",
+"payload_percent": 0.1857,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:32",
+"payload_percent": 0.1857,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:33",
+"payload_percent": 0.1857,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:34",
+"payload_percent": 0.1857,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:35",
+"payload_percent": 0.1857,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:36",
+"payload_percent": 0.1857,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:37",
+"payload_percent": 0.1714,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:38",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:39",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:40",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:41",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:42",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:43",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:44",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:45",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:46",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:47",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:48",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:49",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:50",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:51",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:52",
+"payload_percent": 0.1743,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:53",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:54",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:55",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:56",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:57",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:58",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "01:59",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:00",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:01",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:02",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:03",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:04",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:05",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:06",
+"payload_percent": 0.1657,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:07",
+"payload_percent": 0.1657,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:08",
+"payload_percent": 0.1657,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:09",
+"payload_percent": 0.1657,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:10",
+"payload_percent": 0.1657,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:11",
+"payload_percent": 0.1657,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:12",
+"payload_percent": 0.1657,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": false
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:13",
+"payload_percent": 0.1657,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:14",
+"payload_percent": 0.1657,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:15",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:16",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:17",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:18",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:19",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:20",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:21",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": false
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:22",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:23",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:24",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": false
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:25",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:26",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:27",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:28",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:29",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:30",
+"payload_percent": 0.1657,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:31",
+"payload_percent": 0.16,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:32",
+"payload_percent": 0.16,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:33",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:34",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:35",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:36",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:37",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:38",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:39",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:40",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:41",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:42",
+"payload_percent": 0.1543,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:43",
+"payload_percent": 0.1571,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:44",
+"payload_percent": 0.1571,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:45",
+"payload_percent": 0.1629,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:46",
+"payload_percent": 0.1714,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:47",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:48",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:49",
+"payload_percent": 0.1886,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:50",
+"payload_percent": 0.2,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:51",
+"payload_percent": 0.2057,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:52",
+"payload_percent": 0.2114,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:53",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": false
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:54",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:55",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:56",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:57",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:58",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "02:59",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:00",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:01",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:02",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:03",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:04",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:05",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:06",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:07",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:08",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:09",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:10",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:11",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:12",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:13",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:14",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:15",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:16",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:17",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:18",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:19",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:20",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:21",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:22",
+"payload_percent": 0.22,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:23",
+"payload_percent": 0.22,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:24",
+"payload_percent": 0.2143,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:25",
+"payload_percent": 0.2114,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:26",
+"payload_percent": 0.2114,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:27",
+"payload_percent": 0.2086,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:28",
+"payload_percent": 0.2086,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:29",
+"payload_percent": 0.2086,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:30",
+"payload_percent": 0.2086,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:31",
+"payload_percent": 0.2086,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:32",
+"payload_percent": 0.2086,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:33",
+"payload_percent": 0.2086,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:34",
+"payload_percent": 0.2086,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:35",
+"payload_percent": 0.2086,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:36",
+"payload_percent": 0.2114,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:37",
+"payload_percent": 0.2114,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:38",
+"payload_percent": 0.2114,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:39",
+"payload_percent": 0.2114,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:40",
+"payload_percent": 0.2143,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:41",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:42",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:43",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:44",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": false
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:45",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:46",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:47",
+"payload_percent": 0.2257,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:48",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:49",
+"payload_percent": 0.2257,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:50",
+"payload_percent": 0.2257,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:51",
+"payload_percent": 0.2257,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:52",
+"payload_percent": 0.2257,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:53",
+"payload_percent": 0.2257,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:54",
+"payload_percent": 0.2286,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:55",
+"payload_percent": 0.2286,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:56",
+"payload_percent": 0.2286,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:57",
+"payload_percent": 0.2286,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:58",
+"payload_percent": 0.2286,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "03:59",
+"payload_percent": 0.2286,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:00",
+"payload_percent": 0.2343,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:01",
+"payload_percent": 0.2343,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:02",
+"payload_percent": 0.2343,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:03",
+"payload_percent": 0.2343,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:04",
+"payload_percent": 0.2343,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:05",
+"payload_percent": 0.24,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:06",
+"payload_percent": 0.24,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": false
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:07",
+"payload_percent": 0.2457,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:08",
+"payload_percent": 0.2457,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": false
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:09",
+"payload_percent": 0.2514,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": false
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:10",
+"payload_percent": 0.2629,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": false
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:11",
+"payload_percent": 0.2629,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": false
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:12",
+"payload_percent": 0.28,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": false
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:13",
+"payload_percent": 0.28,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": false
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": false
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:14",
+"payload_percent": 0.2914,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": false
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": false
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:15",
+"payload_percent": 0.2914,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": false
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": false
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:16",
+"payload_percent": 0.2914,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": false
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": false
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:17",
+"payload_percent": 0.2971,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": false
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": false
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:18",
+"payload_percent": 0.3086,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": false
+},
+"p04": {
+"alive": false
+},
+"p05": {
+"alive": false
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:19",
+"payload_percent": 0.3086,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": false
+},
+"p06": {
+"alive": false
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:20",
+"payload_percent": 0.3086,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": false
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:21",
+"payload_percent": 0.3086,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": false
+},
+"p06": {
+"alive": false
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:22",
+"payload_percent": 0.3086,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": false
+},
+"p06": {
+"alive": false
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:23",
+"payload_percent": 0.3086,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": false
+},
+"p06": {
+"alive": false
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:24",
+"payload_percent": 0.3086,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": false
+},
+"p06": {
+"alive": false
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:25",
+"payload_percent": 0.3086,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": false
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": false
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:26",
+"payload_percent": 0.2457,
+"p01": {
+"alive": false
+},
+"p02": {
+"alive": false
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": false
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+},
+{
+"type": "status",
+"time": "04:26",
+"payload_percent": 0.2771,
+"p01": {
+"alive": true
+},
+"p02": {
+"alive": true
+},
+"p03": {
+"alive": true
+},
+"p04": {
+"alive": true
+},
+"p05": {
+"alive": true
+},
+"p06": {
+"alive": true
+},
+"p07": {
+"alive": true
+},
+"p08": {
+"alive": true
+},
+"p09": {
+"alive": true
+},
+"p10": {
+"alive": true
+},
+"p11": {
+"alive": true
+},
+"p12": {
+"alive": true
+}
+}
+]

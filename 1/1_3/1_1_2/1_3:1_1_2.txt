@@ -1,0 +1,13 @@
+vs "Los Angeles Valiant" "Seoul Dynasty"
+map 1 "temple-of-anubis" 2 0 https://www.twitch.tv/videos/246760427
+round 1 <start> <end>
+round 2 <start> <end>
+map 2 "numbani" 3 2 https://www.twitch.tv/videos/246774637
+round 1 <start> <end>
+round 2 <start> <end>
+map 3 "nepal" 2 0 https://www.twitch.tv/videos/246778605
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "junkertown" 3 0 https://www.twitch.tv/videos/246789096
+round 1 <start> <end>
+round 2 <start> <end>

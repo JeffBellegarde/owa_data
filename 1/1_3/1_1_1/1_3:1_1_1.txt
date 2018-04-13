@@ -1,0 +1,13 @@
+vs "Shanghai Dragons" "Dallas Fuel"
+map 1 "volskaya" 1 2 https://www.twitch.tv/videos/246722366
+round 1 16:35 24:58
+round 2 26:54 29:33
+map 2 "numbani" 1 2 https://www.twitch.tv/videos/246727020
+round 1 <start> <end>
+round 2 <start> <end>
+map 3 "ilios" 0 2 https://www.twitch.tv/videos/246737807
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "junkertown" 2 1 https://www.twitch.tv/videos/246753481
+round 1 4:14 13:37
+round 2 15:34 22:18

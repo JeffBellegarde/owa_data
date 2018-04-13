@@ -1,0 +1,13 @@
+vs "Florida Mayhem" "Philadelphia Fusion"
+map 1 "volskaya" 0 1 https://www.twitch.tv/videos/247801441
+round 1 <start> <end>
+round 2 <start> <end>
+map 2 "numbani" 1 2 https://www.twitch.tv/videos/247801994
+round 1 <start> <end>
+round 2 <start> <end>
+map 3 "ilios" 1 2 https://www.twitch.tv/videos/247811799
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "route-66" 3 2 https://www.twitch.tv/videos/247825168
+round 1 <start> <end>
+round 2 <start> <end>
