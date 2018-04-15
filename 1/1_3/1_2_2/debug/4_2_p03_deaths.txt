@@ -1,0 +1,8 @@
+p03 dead from 00:43 to 00:45 frames 57
+p03 dead from 00:48 to 00:49 frames 48
+p03 dead from 00:51 to 00:53 frames 48
+p03 dead from 01:33 to 01:35 frames 45
+p03 dead from 03:02 to 03:06 frames 58
+p03 dead from 03:46 to 03:49 frames 59
+p03 dead from 04:17 to 04:21 frames 59
+p03 dead from 05:33 to 05:42 frames 60
