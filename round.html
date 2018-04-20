@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns:svg="http://www.w3.org/2000/svg">
+  <title>Show round</title>
+  <style>
+    #scrubber {
+    display: inline;
+    position: absolute;
+    }
+    #image-area {
+      height: 500;
+    }
+  </style>
+  <body>
+      <svg id="scrubber" height="500px" width="1">
+        <rect x="0" y="0" height="500px" width="1" stroke="black"/>
+      </svg>
+    <div id="image_area">
+    </div>
+    <!--
+    <iframe
+      src="http://player.twitch.tv/?video=v250164474&amp;autoplay=false"
+      height="500"
+      width="500"
+      frameborder="0"
+      scrolling="no"
+      allowfullscreen="true">
+    </iframe>
+    -->
+    <script type="text/javascript" src="http://player.twitch.tv/js/embed/v1.js"></script>
+    <script type="text/javascript" src="jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="round.js"></script>
+    <script type="text/javascript" src="jquery.svg.package-1.5.0/jquery.svg.js"></script>
+    <!--<script type="text/javascript" src="jquery.svg.package-1.5.0/jquery.svggraph.js"></script> -->
+    <link rel="stylesheet" type="text/css" href="jquery.svg.package-1.5.0/jquery.svg.css"> 
+    <link rel="stylesheet" type="text/css" href="round.css"> 
+    <div id="player_div"></div>
+  </body>
+</html>
