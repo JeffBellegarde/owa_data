@@ -1,0 +1,16 @@
+vs "Seoul Dynasty" "Los Angeles Gladiators"
+map 1 "temple-of-anubis" 2 1 https://www.twitch.tv/videos/250144933
+round 1 <start> <end>
+round 2 <start> <end>
+map 2 "blizzard-world" 2 3 https://www.twitch.tv/videos/250150688
+round 1 <start> <end>
+round 2 <start> <end>
+map 3 "nepal" 1 2 https://www.twitch.tv/videos/250157764
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "junkertown" 2 1 https://www.twitch.tv/videos/250164474
+round 1 3:27 11:55
+round 2 12:53 20:43
+map 5 "oasis" 0 2 https://www.twitch.tv/videos/250169334
+round 1 <start> <end>
+round 2 <start> <end>

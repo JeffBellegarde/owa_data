@@ -1,0 +1,5 @@
+vs "Boston Uprising" "Seoul Dynasty"
+map 1 "volskaya" None None <url>
+map 2 "blizzard-world" None None <url>
+map 3 "nepal" None None <url>
+map 4 "route-66" None None <url>

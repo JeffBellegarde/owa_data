@@ -1,0 +1,11 @@
+p12 dead from 00:53 to 00:56 frames 60
+p12 dead from 00:59 to 01:02 frames 55
+p12 dead from 01:46 to 01:50 frames 60
+p12 dead from 05:13 to 05:16 frames 57
+p12 dead from 05:33 to 05:34 frames 51
+p12 dead from 05:36 to 05:39 frames 47
+p12 dead from 05:40 to 05:41 frames 47
+p12 dead from 06:34 to 06:43 frames 47
+p12 dead from 06:59 to 07:01 frames 60
+p12 dead from 07:02 to 07:05 frames 51
+p12 dead from 07:06 to 07:10 frames 47

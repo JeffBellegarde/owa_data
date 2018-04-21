@@ -1,0 +1,5 @@
+p08 dead from 01:05 to 01:08 frames 60
+p08 dead from 01:11 to 01:14 frames 51
+p08 dead from 01:57 to 01:59 frames 57
+p08 dead from 07:00 to 07:02 frames 59
+p08 dead from 07:04 to 07:05 frames 59
