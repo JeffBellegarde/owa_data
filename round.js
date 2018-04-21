@@ -69,19 +69,19 @@ $( document ).ready(
             $("#scrubber").css("left", event.pageX);
             $("#scrubber").css("top", $("#image_area").position().top);
         });
-        $( "#scrubber" ).click(function(eventObject) {
-            console.log('clicked');
-            var mouseX = event.pageX;
-            var posInImage = mouseX - $(this).offset().left
-            var startTime = 207
-            var time = startTime + (mouseX/ 2) //2 pixels per second
-            console.log("pos "+time)
-            player.seek(time);
-            //player.play()
-        });
         $('#image_area').svg();
         $.getJSON("1/1_3/2_3_3/4_1_summary.json", function(data) {
             draw_graph(data)
+            $( "#scrubber" ).click(function(eventObject) {
+                console.log('clicked');
+                var mouseX = event.pageX;
+                var posInImage = mouseX - $(this).offset().left
+                var startTime = data.offset;
+                var time = startTime + (mouseX / 2) //2 pixels per second
+                console.log("pos "+time)
+                player.seek(time);
+                //player.play()
+            });
         });
 
     });
