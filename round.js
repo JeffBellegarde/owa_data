@@ -34,7 +34,7 @@ function draw_region(svg, group, left, top, right, bottom, class_) {
 }
 
 function draw_fights(svg, fights) {
-    var fights = svg.group('fights');
+    var fights_g = svg.group('fights');
     for (fight_id in fights) {
         var fight = fights[fight_id];
         if (fight.push_end < fight.start_progress) {
@@ -44,12 +44,14 @@ function draw_fights(svg, fights) {
             progress_low = fight.start_progress;
             progress_high = fight.push_end;
         }
-        draw_region(image_svg(), fights, fight.fight_start, progress_high, fight.fight_end, progress_low, "fight_area");
+        draw_region(svg, fights_g, fight.fight_start, progress_high, fight.fight_end, progress_low, "fight_area");
     }
 }
 
 function draw_graph(data) {
-    image_svg().configure({height: '400px'}, true);
+    var svg = image_svg();
+    svg.configure({height: '400px', width: secs_to_x(data.duration)}, true);
+    svg.rect(0, 0, secs_to_x(data.duration), 400, {class_: "graph_border"});
     draw_fights(svg, data.fights);
     console.log('drew fights')
 

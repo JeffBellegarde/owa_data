@@ -4,3 +4,7 @@
     stroke-width: 1
 }
 
+.graph_border {
+  fill: none;
+  stroke: black;
+}
