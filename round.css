@@ -1,11 +1,8 @@
 #scrubber {
-    display: inline;
-    position: absolute;
+    stroke: black;
 }
 
 #indicator {
-    display: inline;
-    position: absolute;
     stroke-dasharray: 2,2;
     stroke: gray;
 }

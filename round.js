@@ -3,7 +3,7 @@ function playerReady() {
 }
 
 timerId = false;
-
+GRAPH_HEIGHT = 400;
 
 function playerPaused() {
     if (timerId) {
@@ -34,7 +34,7 @@ function secs_to_x(secs) {
 }
 
 function progress_to_y(percent) {
-    return ((1 - percent) * 400);
+    return ((1 - percent) * GRAPH_HEIGHT);
 }
 
 function image_svg() {
@@ -50,8 +50,8 @@ function draw_timeline(svg, group, points, y_func, class_) {
     svg.polyline(group, points.map(function(point) { return [secs_to_x(point[0]), y_func(point[1])]}), {class_:class_});
 }
 
-function draw_fights(svg, fights) {
-    var fights_g = svg.group('fights');
+function draw_fights(svg, group, fights) {
+    var fights_g = svg.group(group, 'fights');
     for (fight_id in fights) {
         var fight = fights[fight_id];
         if (fight.push_end < fight.start_progress) {
@@ -65,8 +65,8 @@ function draw_fights(svg, fights) {
     }
 }
 
-function draw_payload_progress(svg, payload_progress) {
-    var g = svg.group('payload_progress');
+function draw_payload_progress(svg, group, payload_progress) {
+    var g = svg.group(group, 'payload_progress');
     for (i in payload_progress) {
         var line = payload_progress[i];
         draw_timeline(svg, g, line, progress_to_y, "progress");
@@ -77,33 +77,25 @@ function draw_graph(data) {
     var svg = image_svg();
     svg.configure({height: '500px', width: secs_to_x(data.duration)}, true);
     var graph_right = secs_to_x(data.duration);
-    svg.rect(0, 0, graph_right, 400, {class_: "graph_border"});
-    var g = svg.group('minute_ref');
+    var g = svg.group('graph', {transform:'translate(10, 45)'});
+    svg.rect(g, 0, 0, graph_right, GRAPH_HEIGHT, {class_: "graph_border"});
+    var minute_g = svg.group(g, 'minute_ref');
     for (pixels = 2*60; pixels < graph_right; pixels+=2*60) {
         var line_x = pixels;
-        svg.line(g, line_x, 0, line_x, 400, {class:'minute_ref_line'});
-        svg.text(g, line_x, 400+20, (pixels/(2 * 60)+':00'));
+        svg.line(minute_g, line_x, 0, line_x, GRAPH_HEIGHT, {class:'minute_ref_line'});
+        svg.text(minute_g, line_x, GRAPH_HEIGHT+20, (pixels/(2 * 60)+':00'));
     }
-    draw_fights(svg, data.fights);
-    draw_payload_progress(svg, data.payload_progress);
-    svg.line(0,0,0, 400, {id:'indicator'});
-
+    draw_fights(svg, g, data.fights);
+    draw_payload_progress(svg, g, data.payload_progress);
+    svg.line(g, 0, 0, 0, GRAPH_HEIGHT, {id:'indicator'});
+    svg.line(g, 0, 0, 0, GRAPH_HEIGHT, {id:'scrubber'});
 }
 
 $( document ).ready(
     function() {
-        // Handler for .ready() called.
         player = new Twitch.Player("player_div", options);
-        /*player.setVolume(0);*/
-        /*player.setMuted(true);*/
-        //player.seek(60);
-        //player.pause();
         player.addEventListener(Twitch.Player.READY, playerReady);
         player.addEventListener(Twitch.Player.PAUSE, playerPaused);
-        $( "#image_area" ).mousemove(function() {
-            $("#scrubber").css("left", event.pageX);
-            $("#scrubber").css("top", $("#image_area").position().top);
-        });
         $('#image_area').svg();
         $.getJSON("1/1_3/2_3_3/4_1_summary.json", function(data) {
             player.addEventListener(Twitch.Player.PLAYING,
@@ -111,15 +103,22 @@ $( document ).ready(
                                         timerId = setInterval(function () {update_player_indicator(data.offset)}, 100)
                                     });
             draw_graph(data)
-            $( "#scrubber" ).click(function(eventObject) {
-                var mouseX = event.pageX;
-                var posInImage = mouseX - $(this).offset().left
-                var startTime = data.offset;
-                var time = startTime + (mouseX / 2) //2 pixels per second
+            $('#scrubber').click(function(eventObject) {
+                var element = image_svg().getElementById('scrubber');
+                var x = element.getAttribute('x1');
+                var time = data.offset + (x / 2) //2 pixels per second
                 player.seek(time);
+                            var element = image_svg().getElementById('indicator');
+                element.setAttribute('x1', x);
+                element.setAttribute('x2', x);
                 //player.play()
             });
         });
-
+        $('#image_area').mousemove(function() {
+            var new_x = event.pageX - $(this).offset().left-10; //10 from the graph grou translation
+            var element = image_svg().getElementById('scrubber');
+            element.setAttribute('x1', new_x);
+            element.setAttribute('x2', new_x);
+        });
     });
 
