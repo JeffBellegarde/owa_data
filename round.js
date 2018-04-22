@@ -7,8 +7,9 @@ GRAPH_HEIGHT = 400;
 PIXELS_PER_SEC = 1;
 
 function secs_to_timestamp(secs) {
-    var minutes = Math.floor(secs / 60);
-    return minutes+':'+(secs-(minutes*60));
+    var round_secs = Math.round(secs);
+    var minutes = Math.floor(round_secs / 60);
+    return minutes+':'+(round_secs-(minutes*60)+"").padStart(2,'0');
 }
 
 function playerPaused() {
