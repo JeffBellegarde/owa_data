@@ -22,3 +22,9 @@
     stroke: blue;
     stroke-width: 2
 }
+
+.minute_ref_line {
+  stroke: gray;
+  stroke-width: 1;
+  stroke-dasharray: 1,4
+}

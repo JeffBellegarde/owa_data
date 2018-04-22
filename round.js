@@ -62,11 +62,17 @@ function draw_payload_progress(svg, payload_progress) {
 
 function draw_graph(data) {
     var svg = image_svg();
-    svg.configure({height: '400px', width: secs_to_x(data.duration)}, true);
-    svg.rect(0, 0, secs_to_x(data.duration), 400, {class_: "graph_border"});
+    svg.configure({height: '500px', width: secs_to_x(data.duration)}, true);
+    var graph_right = secs_to_x(data.duration);
+    svg.rect(0, 0, graph_right, 400, {class_: "graph_border"});
+    var g = svg.group('minute_ref');
+    for (pixels = 2*60; pixels < graph_right; pixels+=2*60) {
+        var line_x = pixels;
+        svg.line(g, line_x, 0, line_x, 400, {class:'minute_ref_line'});
+        svg.text(g, line_x, 400+20, (pixels/(2 * 60)+':00'));
+    }
     draw_fights(svg, data.fights);
     draw_payload_progress(svg, data.payload_progress);
-    console.log('drew fights')
 
 }
 
