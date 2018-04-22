@@ -30,7 +30,11 @@ function image_svg() {
 
 function draw_region(svg, group, left, top, right, bottom, class_) {
     svg.rect(group, secs_to_x(left), progress_to_y(top), secs_to_x(right)-secs_to_x(left), progress_to_y(bottom)-progress_to_y(top),
-             {fill: 'yellow', stroke: 'navy', strokeWidth: 5, class_:class_});
+             {class_:class_});
+}
+
+function draw_timeline(svg, group, points, y_func, class_) {
+    svg.polyline(group, points.map(function(point) { return [secs_to_x(point[0]), y_func(point[1])]}), {class_:class_});
 }
 
 function draw_fights(svg, fights) {
@@ -48,11 +52,20 @@ function draw_fights(svg, fights) {
     }
 }
 
+function draw_payload_progress(svg, payload_progress) {
+    var g = svg.group('payload_progress');
+    for (i in payload_progress) {
+        var line = payload_progress[i];
+        draw_timeline(svg, g, line, progress_to_y, "progress");
+    }
+}
+
 function draw_graph(data) {
     var svg = image_svg();
     svg.configure({height: '400px', width: secs_to_x(data.duration)}, true);
     svg.rect(0, 0, secs_to_x(data.duration), 400, {class_: "graph_border"});
     draw_fights(svg, data.fights);
+    draw_payload_progress(svg, data.payload_progress);
     console.log('drew fights')
 
 }

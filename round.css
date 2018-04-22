@@ -1,3 +1,11 @@
+#scrubber {
+    display: inline;
+    position: absolute;
+}
+#image-area {
+    height: 500;
+}
+
 .fight_area {
     fill: lightyellow;
     stroke: gold;
@@ -5,6 +13,12 @@
 }
 
 .graph_border {
-  fill: none;
-  stroke: black;
+    fill: none;
+    stroke: black;
+}
+
+.progress {
+    fill:none;
+    stroke: blue;
+    stroke-width: 2
 }
