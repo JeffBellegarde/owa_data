@@ -1,9 +1,22 @@
 function playerReady() {
     //alert("ready");
 }
-function playerPlaying() {
-    console.log(player.getCurrentTime());
-    //alert("ready");
+
+timerId = false;
+
+
+function playerPaused() {
+    if (timerId) {
+        clearInterval(timerId);
+    }
+}
+
+function update_player_indicator(offset) {
+    var svg = image_svg();
+    var new_x = (player.getCurrentTime() - offset) * 2;
+    var element = svg.getElementById('indicator');
+    element.setAttribute('x1', new_x);
+    element.setAttribute('x2', new_x);
 }
 
 var options = {
@@ -73,6 +86,7 @@ function draw_graph(data) {
     }
     draw_fights(svg, data.fights);
     draw_payload_progress(svg, data.payload_progress);
+    svg.line(0,0,0, 400, {id:'indicator'});
 
 }
 
@@ -85,21 +99,23 @@ $( document ).ready(
         //player.seek(60);
         //player.pause();
         player.addEventListener(Twitch.Player.READY, playerReady);
-        player.addEventListener(Twitch.Player.PLAYING, playerPlaying);
+        player.addEventListener(Twitch.Player.PAUSE, playerPaused);
         $( "#image_area" ).mousemove(function() {
             $("#scrubber").css("left", event.pageX);
             $("#scrubber").css("top", $("#image_area").position().top);
         });
         $('#image_area').svg();
         $.getJSON("1/1_3/2_3_3/4_1_summary.json", function(data) {
+            player.addEventListener(Twitch.Player.PLAYING,
+                                    function playerPlaying() {
+                                        timerId = setInterval(function () {update_player_indicator(data.offset)}, 100)
+                                    });
             draw_graph(data)
             $( "#scrubber" ).click(function(eventObject) {
-                console.log('clicked');
                 var mouseX = event.pageX;
                 var posInImage = mouseX - $(this).offset().left
                 var startTime = data.offset;
                 var time = startTime + (mouseX / 2) //2 pixels per second
-                console.log("pos "+time)
                 player.seek(time);
                 //player.play()
             });

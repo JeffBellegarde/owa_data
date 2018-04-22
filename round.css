@@ -2,6 +2,14 @@
     display: inline;
     position: absolute;
 }
+
+#indicator {
+    display: inline;
+    position: absolute;
+    stroke-dasharray: 2,2;
+    stroke: gray;
+}
+
 #image-area {
     height: 500;
 }
