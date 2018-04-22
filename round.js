@@ -86,11 +86,15 @@ function draw_fights(svg, group, fights) {
     for (fight_id in fights) {
         var fight = fights[fight_id];
         if (fight.push_end < fight.start_progress) {
-            push_low = fight.push_end;
-            push_hight = fight.start_progress;
+            progress_low = fight.push_end;
+            progress_high = fight.start_progress;
         } else {
             progress_low = fight.start_progress;
             progress_high = fight.push_end;
+        }
+        if (progress_low == progress_high) {
+            progress_low-=.01;
+            progress_high+=.01;
         }
         draw_region(svg, fights_g, fight.fight_start, progress_high, fight.fight_end, progress_low, "fight_area");
     }
