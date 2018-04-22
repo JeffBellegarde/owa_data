@@ -4,6 +4,12 @@ function playerReady() {
 
 timerId = false;
 GRAPH_HEIGHT = 400;
+PIXELS_PER_SEC = 1;
+
+function secs_to_timestamp(secs) {
+    var minutes = Math.floor(secs / 60);
+    return minutes+':'+(secs-(minutes*60));
+}
 
 function playerPaused() {
     if (timerId) {
@@ -11,12 +17,36 @@ function playerPaused() {
     }
 }
 
+function move_scrubber(new_x) {
+    var element = image_svg().getElementById('scrubber');
+    if (element) {
+        element.setAttribute('x1', new_x);
+        element.setAttribute('x2', new_x);
+    }
+    var element = image_svg().getElementById('scrubber_text');
+    if (element) {
+        element.setAttribute('x', new_x);
+        $('#scrubber_text').text(secs_to_timestamp(new_x));
+    }
+}
+
+function move_indicator(new_x) {
+    var element = image_svg().getElementById('indicator');
+    if (element) {
+        element.setAttribute('x1', new_x);
+        element.setAttribute('x2', new_x);
+    }
+    var element = image_svg().getElementById('indicator_text');
+    if (element) {
+        element.setAttribute('x', new_x);
+        $('#indicator_text').text(secs_to_timestamp(new_x));
+    }
+}
+
 function update_player_indicator(offset) {
     var svg = image_svg();
-    var new_x = (player.getCurrentTime() - offset) * 2;
-    var element = svg.getElementById('indicator');
-    element.setAttribute('x1', new_x);
-    element.setAttribute('x2', new_x);
+    var new_x = (player.getCurrentTime() - offset) * PIXELS_PER_SEC;
+    move_indicator(new_x);
 }
 
 var options = {
@@ -30,7 +60,7 @@ var options = {
 };
 
 function secs_to_x(secs) {
-    return secs * 2
+    return secs * PIXELS_PER_SEC;
 }
 
 function progress_to_y(percent) {
@@ -65,6 +95,22 @@ function draw_fights(svg, group, fights) {
     }
 }
 
+function draw_completion_lines(svg, group, cleared_checkpoints) {
+    var g = svg.group(group, 'completion_lines');
+    for (i in cleared_checkpoints) {
+        var cp = cleared_checkpoints[i];
+        if (i > 0) {
+            var left = cleared_checkpoints[i-1][0];
+        } else {
+            var left = 0;
+        }
+        svg.line(g, secs_to_x(cp[0]), progress_to_y(1.0), secs_to_x(cp[0]), progress_to_y(cp[1]), {class_: 'progress_target_line'});
+        svg.line(g, secs_to_x(left), progress_to_y(cp[1]), secs_to_x(cp[0]), progress_to_y(cp[1]), {class_: 'progress_completion_line'});
+        svg.text(g, secs_to_x(cp[0]), -5, secs_to_timestamp(cp[0]));
+        //chart.text(time, (time, -5), (chart.time_to_graph_x, None), group='completion')
+    }
+}
+
 function draw_payload_progress(svg, group, payload_progress) {
     var g = svg.group(group, 'payload_progress');
     for (i in payload_progress) {
@@ -75,20 +121,32 @@ function draw_payload_progress(svg, group, payload_progress) {
 
 function draw_graph(data) {
     var svg = image_svg();
-    svg.configure({height: '500px', width: secs_to_x(data.duration)}, true);
+    svg.configure({height: '500px', width: secs_to_x(data.duration)+10+10}, true);
     var graph_right = secs_to_x(data.duration);
     var g = svg.group('graph', {transform:'translate(10, 45)'});
     svg.rect(g, 0, 0, graph_right, GRAPH_HEIGHT, {class_: "graph_border"});
     var minute_g = svg.group(g, 'minute_ref');
-    for (pixels = 2*60; pixels < graph_right; pixels+=2*60) {
+    for (pixels = PIXELS_PER_SEC*60; pixels < graph_right; pixels+=PIXELS_PER_SEC*60) {
         var line_x = pixels;
         svg.line(minute_g, line_x, 0, line_x, GRAPH_HEIGHT, {class:'minute_ref_line'});
-        svg.text(minute_g, line_x, GRAPH_HEIGHT+20, (pixels/(2 * 60)+':00'));
+        svg.text(minute_g, line_x, GRAPH_HEIGHT+20, (pixels/(PIXELS_PER_SEC * 60)+':00'));
     }
     draw_fights(svg, g, data.fights);
+    draw_completion_lines(svg, g, data.cleared_checkpoints);
     draw_payload_progress(svg, g, data.payload_progress);
-    svg.line(g, 0, 0, 0, GRAPH_HEIGHT, {id:'indicator'});
-    svg.line(g, 0, 0, 0, GRAPH_HEIGHT, {id:'scrubber'});
+    svg.line(g, 0, 0, 0, GRAPH_HEIGHT+25, {id:'indicator'});
+    svg.text(g, 0, GRAPH_HEIGHT+35, '0:00', {id:'indicator_text'});
+    svg.line(g, 0, -20, 0, GRAPH_HEIGHT, {id:'scrubber'});
+    svg.text(g, 0, -25, '0:00', {id:'scrubber_text'});
+
+    $('#scrubber').click(function(eventObject) {
+        var element = image_svg().getElementById('scrubber');
+        var x = element.getAttribute('x1');
+        var time = data.offset + (x / PIXELS_PER_SEC)
+        player.seek(time);
+        move_indicator(x);
+        //player.play()
+    });
 }
 
 $( document ).ready(
@@ -103,22 +161,10 @@ $( document ).ready(
                                         timerId = setInterval(function () {update_player_indicator(data.offset)}, 100)
                                     });
             draw_graph(data)
-            $('#scrubber').click(function(eventObject) {
-                var element = image_svg().getElementById('scrubber');
-                var x = element.getAttribute('x1');
-                var time = data.offset + (x / 2) //2 pixels per second
-                player.seek(time);
-                            var element = image_svg().getElementById('indicator');
-                element.setAttribute('x1', x);
-                element.setAttribute('x2', x);
-                //player.play()
-            });
         });
         $('#image_area').mousemove(function() {
-            var new_x = event.pageX - $(this).offset().left-10; //10 from the graph grou translation
-            var element = image_svg().getElementById('scrubber');
-            element.setAttribute('x1', new_x);
-            element.setAttribute('x2', new_x);
+            var new_x = event.pageX - $(this).offset().left-10; //10 from the graph group translation
+            move_scrubber(new_x);
         });
     });
 

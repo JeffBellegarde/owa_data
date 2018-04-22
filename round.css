@@ -33,3 +33,14 @@
   stroke-width: 1;
   stroke-dasharray: 1,4
 }
+
+.progress_target_line {
+    stroke: gray;
+    stroke_width: 1;
+    stroke-dasharray: 3,1
+}
+
+.progress_completion_line {
+    stroke: gray;
+    stroke_width: 1
+}
