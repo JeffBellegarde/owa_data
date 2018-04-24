@@ -28,10 +28,27 @@
     stroke-width: 2
 }
 
+.player_lifelines {
+  display: inline
+}
+
+.player_lifeline {
+  fill:none;
+  stroke: green;
+  stroke-width: 1;
+  display: inline
+}
+
 .minute_ref_line {
   stroke: gray;
   stroke-width: 1;
   stroke-dasharray: 1,4
+}
+
+.player_advantage {
+    fill:none;
+    stroke: red;
+    stroke-width: 1
 }
 
 .progress_target_line {

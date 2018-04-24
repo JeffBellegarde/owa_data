@@ -68,6 +68,10 @@ function progress_to_y(percent) {
     return ((1 - percent) * GRAPH_HEIGHT);
 }
 
+function player_advantage_to_y(advantage) {
+    return GRAPH_HEIGHT - ((6 + advantage) * (GRAPH_HEIGHT / 12));
+}
+
 function image_svg() {
     return $('#image_area').svg('get');
 }
@@ -116,6 +120,32 @@ function draw_completion_lines(svg, group, cleared_checkpoints) {
     }
 }
 
+function draw_player_lifeline(svg, group, position, line) {
+    var y = (parseInt(position) + 1) * (GRAPH_HEIGHT/13);
+    console.log(position, position+1, y, (GRAPH_HEIGHT/13), line);
+    for (section in line) {
+        lifeline = line[section];
+        svg.polyline(group, [[secs_to_x(lifeline[0]), y],
+                             [secs_to_x(lifeline[1]), y]],
+                     {class_:'player_lifeline'})
+    }
+}
+function draw_player_lifelines(svg, group, player_lifelines) {
+    var g = svg.group(group, 'player_lifelines');
+    for (i in player_lifelines) {
+        var line = player_lifelines[i];
+        draw_player_lifeline(svg, g, i, line);
+    }
+}
+
+function draw_player_advantage(svg, group, player_advantage) {
+    var g = svg.group(group, 'player_advantage');
+    for (i in player_advantage) {
+        var line = player_advantage[i];
+        draw_timeline(svg, g, line, player_advantage_to_y, "player_advantage");
+    }
+}
+
 function draw_payload_progress(svg, group, payload_progress) {
     var g = svg.group(group, 'payload_progress');
     for (i in payload_progress) {
@@ -138,6 +168,8 @@ function draw_graph(data) {
     }
     draw_fights(svg, g, data.fights);
     draw_completion_lines(svg, g, data.cleared_checkpoints);
+    draw_player_lifelines(svg, g, data.player_lifelines);
+    draw_player_advantage(svg, g, data.player_advantage);
     draw_payload_progress(svg, g, data.payload_progress);
     svg.line(g, 0, 0, 0, GRAPH_HEIGHT+25, {id:'indicator'});
     svg.text(g, 0, GRAPH_HEIGHT+35, '0:00', {id:'indicator_text'});
@@ -154,6 +186,8 @@ function draw_graph(data) {
     });
 }
 
+round_data = null;
+
 $( document ).ready(
     function() {
         player = new Twitch.Player("player_div", options);
@@ -161,6 +195,7 @@ $( document ).ready(
         player.addEventListener(Twitch.Player.PAUSE, playerPaused);
         $('#image_area').svg();
         $.getJSON("1/1_3/2_3_3/4_1_summary.json", function(data) {
+            round_data = data;
             player.addEventListener(Twitch.Player.PLAYING,
                                     function playerPlaying() {
                                         timerId = setInterval(function () {update_player_indicator(data.offset)}, 100)
