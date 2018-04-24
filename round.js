@@ -85,6 +85,12 @@ function draw_timeline(svg, group, points, y_func, class_) {
     svg.polyline(group, points.map(function(point) { return [secs_to_x(point[0]), y_func(point[1])]}), {class_:class_});
 }
 
+function table_cell(value) {
+    var cell = $('<div/>', {'class':'Cell'});
+    cell.append('<p>'+value+'</p>');
+    return cell;
+}
+
 function draw_fights(svg, group, fights) {
     var fights_g = svg.group(group, 'fights');
     for (fight_id in fights) {
@@ -101,6 +107,19 @@ function draw_fights(svg, group, fights) {
             progress_high+=.01;
         }
         draw_region(svg, fights_g, fight.fight_start, progress_high, fight.fight_end, progress_low, "fight_area");
+
+        var duration = fight.push_duration;
+        var progress = fight.push_end-fight.start_progress;
+
+        var fight_table = $('#fight_table');
+        var row = $('<div/>', {'class':'Row'});
+        fight_table.append(row);
+        row.append(table_cell(fight_id));
+        row.append(table_cell(fight.fight_start));
+        row.append(table_cell(fight.fight_end-fight.fight_start));
+        row.append(table_cell(Math.round(progress * 100)+'%'));
+        row.append(table_cell(duration));
+        row.append(table_cell(Math.round((progress/duration) * 1000)/10));
     }
 }
 
