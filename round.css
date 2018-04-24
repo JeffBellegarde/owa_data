@@ -29,14 +29,13 @@
 }
 
 .player_lifelines {
-  display: inline
+  display: none
 }
 
 .player_lifeline {
   fill:none;
   stroke: green;
   stroke-width: 1;
-  display: inline
 }
 
 .minute_ref_line {

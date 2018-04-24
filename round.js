@@ -122,7 +122,6 @@ function draw_completion_lines(svg, group, cleared_checkpoints) {
 
 function draw_player_lifeline(svg, group, position, line) {
     var y = (parseInt(position) + 1) * (GRAPH_HEIGHT/13);
-    console.log(position, position+1, y, (GRAPH_HEIGHT/13), line);
     for (section in line) {
         lifeline = line[section];
         svg.polyline(group, [[secs_to_x(lifeline[0]), y],
@@ -136,6 +135,7 @@ function draw_player_lifelines(svg, group, player_lifelines) {
         var line = player_lifelines[i];
         draw_player_lifeline(svg, g, i, line);
     }
+    add_layer_toggle('#player_lifelines','Player Lifelines');
 }
 
 function draw_player_advantage(svg, group, player_advantage) {
@@ -144,6 +144,8 @@ function draw_player_advantage(svg, group, player_advantage) {
         var line = player_advantage[i];
         draw_timeline(svg, g, line, player_advantage_to_y, "player_advantage");
     }
+    add_layer_toggle('#player_advantage','Player Advantage');
+
 }
 
 function draw_payload_progress(svg, group, payload_progress) {
@@ -186,25 +188,37 @@ function draw_graph(data) {
     });
 }
 
+function add_layer_toggle(group_id, text) {
+    var button = $('<button>'+text+'</button>').click(function () {
+        var x = $(group_id).css('display');
+        if (x === "none") {
+            $(group_id).css('display', "block");
+        } else {
+            $(group_id).css('display', "none");
+        }
+    });
+    $('#layer_controls').append(button);
+}
 round_data = null;
 
-$( document ).ready(
-    function() {
-        player = new Twitch.Player("player_div", options);
-        player.addEventListener(Twitch.Player.READY, playerReady);
-        player.addEventListener(Twitch.Player.PAUSE, playerPaused);
-        $('#image_area').svg();
-        $.getJSON("1/1_3/2_3_3/4_1_summary.json", function(data) {
-            round_data = data;
-            player.addEventListener(Twitch.Player.PLAYING,
-                                    function playerPlaying() {
-                                        timerId = setInterval(function () {update_player_indicator(data.offset)}, 100)
-                                    });
-            draw_graph(data)
-        });
-        $('#image_area').mousemove(function() {
-            var new_x = event.pageX - $(this).offset().left-10; //10 from the graph group translation
-            move_scrubber(new_x);
-        });
+$( document ).ready(function() {
+    player = new Twitch.Player("player_div", options);
+    player.addEventListener(Twitch.Player.READY, playerReady);
+    player.addEventListener(Twitch.Player.PAUSE, playerPaused);
+    $('#image_area').svg();
+    $('#toggle_player_lifelines').click(function() {
     });
+    $.getJSON("1/1_3/2_3_3/4_1_summary.json", function(data) {
+        round_data = data;
+        player.addEventListener(Twitch.Player.PLAYING,
+                                function playerPlaying() {
+                                    timerId = setInterval(function () {update_player_indicator(data.offset)}, 100)
+                                });
+        draw_graph(data)
+        });
+    $('#image_area').mousemove(function() {
+        var new_x = event.pageX - $(this).offset().left-10; //10 from the graph group translation
+        move_scrubber(new_x);
+    });
+});
 
