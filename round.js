@@ -50,16 +50,6 @@ function update_player_indicator(offset) {
     move_indicator(new_x);
 }
 
-var options = {
-		width: 600,
-		height: 400,
- 		video: "250164474",
-    html5: true,
-    /*volume: 0.0,*/
-    muted: true,
-    autoplay: false,
-};
-
 function secs_to_x(secs) {
     return secs * PIXELS_PER_SEC;
 }
@@ -220,15 +210,30 @@ function add_layer_toggle(group_id, text) {
 }
 round_data = null;
 
+function summary_path(round_id) {
+    var parts = round_id.split(':');
+    var a_parts = parts[0].split('_');
+    var b_parts = parts[0].split('_');
+    var c_parts = parts[0].split('_');
+    return a_parts[0]+'/'+parts[0]+'/'+parts[1]+'/'+parts[2]+'_summary.json';
+}
 $( document ).ready(function() {
-    player = new Twitch.Player("player_div", options);
-    player.addEventListener(Twitch.Player.READY, playerReady);
-    player.addEventListener(Twitch.Player.PAUSE, playerPaused);
-    $('#image_area').svg();
-    $('#toggle_player_lifelines').click(function() {
-    });
-    $.getJSON("1/1_3/2_3_3/4_1_summary.json", function(data) {
-        round_data = data;
+$('#image_area').svg();
+    var urlParams = new URLSearchParams(window.location.search);
+    $.getJSON(summary_path(urlParams.get('matchId')), function(data) {
+        round_data = data; //Intentionally leaked for debugging aid.
+        var options = {
+		        width: 600,
+		        height: 400,
+ 		        video: data.video_id,
+            html5: true,
+            /*volume: 0.0,*/
+            muted: true,
+            autoplay: false,
+        };
+        player = new Twitch.Player("player_div", options);
+        player.addEventListener(Twitch.Player.READY, playerReady);
+        player.addEventListener(Twitch.Player.PAUSE, playerPaused);
         player.addEventListener(Twitch.Player.PLAYING,
                                 function playerPlaying() {
                                     timerId = setInterval(function () {update_player_indicator(data.offset)}, 100)

@@ -1,0 +1,16 @@
+vs "Los Angeles Gladiators" "Los Angeles Valiant"
+map 1 "temple-of-anubis" 1 0 https://www.twitch.tv/videos/251915491
+round 1 <start> <end>
+round 2 <start> <end>
+map 2 "numbani" 2 3 https://www.twitch.tv/videos/251921071
+round 1 <start> <end>
+round 2 <start> <end>
+map 3 "ilios" 0 2 https://www.twitch.tv/videos/251926369
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "junkertown" 3 1 https://www.twitch.tv/videos/251938304
+round 1 2:49 8:02
+round 2 9:57 16:53
+map 5 "oasis" 1 2 https://www.twitch.tv/videos/251944453
+round 1 <start> <end>
+round 2 <start> <end>
