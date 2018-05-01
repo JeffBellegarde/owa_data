@@ -1,0 +1,3 @@
+p01 dead from 02:13 to 02:17 frames 60
+p01 dead from 03:56 to 04:05 frames 60
+p01 dead from 06:51 to 07:00 frames 60

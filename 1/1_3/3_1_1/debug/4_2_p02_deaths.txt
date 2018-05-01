@@ -1,0 +1,3 @@
+p02 dead from 00:42 to 00:50 frames 60
+p02 dead from 04:24 to 04:27 frames 60
+p02 dead from 04:28 to 04:33 frames 60

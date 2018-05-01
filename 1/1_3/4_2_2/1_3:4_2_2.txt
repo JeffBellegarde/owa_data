@@ -1,0 +1,13 @@
+vs "San Francisco Shock" "New York Excelsior"
+map 1 "temple-of-anubis" 2 1 https://www.twitch.tv/videos/254913446
+round 1 <start> <end>
+round 2 <start> <end>
+map 2 "numbani" 1 2 https://www.twitch.tv/videos/254913876
+round 1 <start> <end>
+round 2 <start> <end>
+map 3 "nepal" 1 2 https://www.twitch.tv/videos/254921228
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "junkertown" 2 3 https://www.twitch.tv/videos/254923429
+round 1 4:35 12:36
+round 2 14:33 19:58

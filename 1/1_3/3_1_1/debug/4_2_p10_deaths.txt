@@ -1,0 +1,7 @@
+p10 dead from 03:41 to 03:43 frames 60
+p10 dead from 03:44 to 03:46 frames 60
+p10 dead from 04:33 to 04:34 frames 53
+p10 dead from 04:35 to 04:39 frames 60
+p10 dead from 05:39 to 05:48 frames 55
+p10 dead from 06:47 to 06:52 frames 50
+p10 dead from 06:53 to 06:54 frames 58

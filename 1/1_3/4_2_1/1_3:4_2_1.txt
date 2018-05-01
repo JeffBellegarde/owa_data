@@ -1,0 +1,18 @@
+vs "Los Angeles Gladiators" "London Spitfire"
+map 1 "volskaya" 4 3 https://www.twitch.tv/videos/254877761
+round 1 <start> <end>
+round 2 <start> <end>
+round 3 <start> <end>
+round 4 <start> <end>
+map 2 "blizzard-world" 3 0 https://www.twitch.tv/videos/254878102
+round 1 <start> <end>
+round 2 <start> <end>
+map 3 "ilios" 1 2 https://www.twitch.tv/videos/254878485
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "route-66" 2 3 https://www.twitch.tv/videos/254879139
+round 1 2:04 10:31
+round 2 12:28 19:36
+map 5 "oasis" 2 1 https://www.twitch.tv/videos/254904679
+round 1 <start> <end>
+round 2 <start> <end>

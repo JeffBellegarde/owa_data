@@ -85,11 +85,11 @@ function draw_fights(svg, group, fights) {
     var fights_g = svg.group(group, 'fights');
     for (fight_id in fights) {
         var fight = fights[fight_id];
-        if (fight.push_end < fight.start_progress) {
+        if (fight.push_end < fight.progress_start) {
             progress_low = fight.push_end;
-            progress_high = fight.start_progress;
+            progress_high = fight.progress_start;
         } else {
-            progress_low = fight.start_progress;
+            progress_low = fight.progress_start;
             progress_high = fight.push_end;
         }
         if (progress_low == progress_high) {
@@ -99,17 +99,36 @@ function draw_fights(svg, group, fights) {
         draw_region(svg, fights_g, fight.fight_start, progress_high, fight.fight_end, progress_low, "fight_area");
 
         var duration = fight.push_duration;
-        var progress = fight.push_end-fight.start_progress;
+        var progress = fight.push_end-fight.progress_start;
 
         var fight_table = $('#fight_table');
         var row = $('<div/>', {'class':'Row'});
         fight_table.append(row);
-        row.append(table_cell(fight_id));
-        row.append(table_cell(fight.fight_start));
+        row.append(table_cell(fight.number));
+        row.append(table_cell(secs_to_timestamp(fight.fight_start)));
         row.append(table_cell(fight.fight_end-fight.fight_start));
         row.append(table_cell(Math.round(progress * 100)+'%'));
         row.append(table_cell(duration));
         row.append(table_cell(Math.round((progress/duration) * 1000)/10));
+    }
+}
+
+function draw_pushes(svg, group, pushes) {
+    var pushes_g = svg.group(group, 'pushes');
+    for (push_id in pushes) {
+        var push = pushes[push_id];
+        if (push.progress_end < push.progress_start) {
+            progress_low = push.progress_end;
+            progress_high = push.progress_start;
+        } else {
+            progress_low = push.progress_start;
+            progress_high = push.progress_end;
+        }
+        if (progress_low == progress_high) {
+            progress_low-=.01;
+            progress_high+=.01;
+        }
+        draw_region(svg, pushes_g, push.push_start, progress_high, push.push_end, progress_low, "push_area");
     }
 }
 
@@ -178,6 +197,7 @@ function draw_graph(data) {
         svg.text(minute_g, line_x, GRAPH_HEIGHT+20, (pixels/(PIXELS_PER_SEC * 60)+':00'));
     }
     draw_fights(svg, g, data.fights);
+    draw_pushes(svg, g, data.pushes);
     draw_completion_lines(svg, g, data.cleared_checkpoints);
     draw_player_lifelines(svg, g, data.player_lifelines);
     draw_player_advantage(svg, g, data.player_advantage);
@@ -239,7 +259,7 @@ $('#image_area').svg();
                                     timerId = setInterval(function () {update_player_indicator(data.offset)}, 100)
                                 });
         draw_graph(data)
-        });
+    });
     $('#image_area').mousemove(function() {
         var new_x = event.pageX - $(this).offset().left-10; //10 from the graph group translation
         move_scrubber(new_x);

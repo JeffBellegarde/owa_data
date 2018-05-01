@@ -17,6 +17,12 @@
     stroke-width: 1
 }
 
+.push_area {
+    fill: lightgreen;
+    stroke: green;
+    stroke-width: 1
+}
+
 .graph_border {
     fill: none;
     stroke: black;
