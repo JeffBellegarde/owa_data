@@ -62,6 +62,16 @@ function player_advantage_to_y(advantage) {
     return GRAPH_HEIGHT - ((6 + advantage) * (GRAPH_HEIGHT / 12));
 }
 
+TEAM_HEALTH_SEGMENT_SIZE = GRAPH_HEIGHT / (2 * 3 * 6) //2 teams, 3 health levels, 6 players
+
+function visitor_health_to_y(health) {
+    return GRAPH_HEIGHT/2 - (health * TEAM_HEALTH_SEGMENT_SIZE);
+}
+
+function home_health_to_y(health) {
+    return GRAPH_HEIGHT/2 + (health * TEAM_HEALTH_SEGMENT_SIZE);
+}
+
 function image_svg() {
     return $('#image_area').svg('get');
 }
@@ -81,17 +91,18 @@ function table_cell(value) {
     return cell;
 }
 
+function sort2(a, b) {
+    var list = [a, b];
+    list.sort();
+    return list
+}
 function draw_fights(svg, group, fights) {
     var fights_g = svg.group(group, 'fights');
     for (fight_id in fights) {
         var fight = fights[fight_id];
-        if (fight.push_end < fight.progress_start) {
-            progress_low = fight.push_end;
-            progress_high = fight.progress_start;
-        } else {
-            progress_low = fight.progress_start;
-            progress_high = fight.push_end;
-        }
+        var l = sort2(fight.progress_start, fight.push_end);
+        progress_low = l[0];
+        progress_high = l[1];
         if (progress_low == progress_high) {
             progress_low-=.01;
             progress_high+=.01;
@@ -117,13 +128,10 @@ function draw_pushes(svg, group, pushes) {
     var pushes_g = svg.group(group, 'pushes');
     for (push_id in pushes) {
         var push = pushes[push_id];
-        if (push.progress_end < push.progress_start) {
-            progress_low = push.progress_end;
-            progress_high = push.progress_start;
-        } else {
-            progress_low = push.progress_start;
-            progress_high = push.progress_end;
-        }
+        var l = sort2(push.progress_start, push.progress_end);
+        progress_low = l[0];
+        progress_high = l[1];
+
         if (progress_low == progress_high) {
             progress_low-=.01;
             progress_high+=.01;
@@ -176,6 +184,12 @@ function draw_player_advantage(svg, group, player_advantage) {
 
 }
 
+function draw_team_health(svg, group, team_health) {
+    var g = svg.group(group, 'team_health');
+    draw_timeline(svg, g, team_health['visitor'], visitor_health_to_y, "team_health");
+    draw_timeline(svg, g, team_health['home'], home_health_to_y, "team_health");
+}
+
 function draw_payload_progress(svg, group, payload_progress) {
     var g = svg.group(group, 'payload_progress');
     for (i in payload_progress) {
@@ -201,6 +215,7 @@ function draw_graph(data) {
     draw_completion_lines(svg, g, data.cleared_checkpoints);
     draw_player_lifelines(svg, g, data.player_lifelines);
     draw_player_advantage(svg, g, data.player_advantage);
+    draw_team_health(svg, g, data.team_health);
     draw_payload_progress(svg, g, data.payload_progress);
     svg.line(g, 0, 0, 0, GRAPH_HEIGHT+25, {id:'indicator'});
     svg.text(g, 0, GRAPH_HEIGHT+35, '0:00', {id:'indicator_text'});

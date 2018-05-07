@@ -1,7 +1,8 @@
 p09 dead from 01:07 to 01:10 frames 60
 p09 dead from 01:11 to 01:16 frames 50
-p09 dead from 01:46 to 01:55 frames 60
-p09 dead from 02:29 to 02:38 frames 57
+p09 dead from 01:46 to 01:55 frames 58
+p09 dead from 02:29 to 02:34 frames 56
+p09 dead from 02:35 to 02:38 frames 60
 p09 dead from 04:22 to 04:32 frames 60
 p09 dead from 06:37 to 06:46 frames 57
 p09 dead from 08:18 to 08:25 frames 60

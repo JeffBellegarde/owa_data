@@ -18,7 +18,7 @@
 }
 
 .push_area {
-    fill: lightgreen;
+    fill: palegreen;
     stroke: green;
     stroke-width: 1
 }
@@ -56,6 +56,11 @@
     stroke-width: 1
 }
 
+.team_health {
+    fill:none;
+    stroke: red;
+    stroke-width: 1
+}
 .progress_target_line {
     stroke: gray;
     stroke-width: 1;

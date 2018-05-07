@@ -1,6 +1,6 @@
-p07 dead from 00:51 to 00:52 frames 60
+p07 dead from 00:51 to 00:52 frames 59
 p07 dead from 00:53 to 00:56 frames 56
-p07 dead from 00:57 to 00:59 frames 59
-p07 dead from 01:32 to 01:35 frames 59
+p07 dead from 00:57 to 00:59 frames 58
+p07 dead from 01:32 to 01:35 frames 58
 p07 dead from 01:36 to 01:38 frames 56
 p07 dead from 01:40 to 01:41 frames 58

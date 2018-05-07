@@ -1,5 +1,5 @@
-p05 dead from 00:41 to 00:48 frames 54
+p05 dead from 00:41 to 00:48 frames 56
 p05 dead from 02:43 to 02:46 frames 60
-p05 dead from 04:25 to 04:29 frames 58
-p05 dead from 04:32 to 04:33 frames 55
+p05 dead from 04:25 to 04:29 frames 57
+p05 dead from 04:31 to 04:33 frames 45
 p05 dead from 06:58 to 07:06 frames 60
