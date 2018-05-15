@@ -54,7 +54,7 @@ function secs_to_x(secs) {
     return secs * PIXELS_PER_SEC;
 }
 
-function progress_to_y(percent) {
+function percent_to_y(percent) {
     return ((1 - percent) * GRAPH_HEIGHT);
 }
 
@@ -77,7 +77,7 @@ function image_svg() {
 }
 
 function draw_region(svg, group, left, top, right, bottom, class_) {
-    svg.rect(group, secs_to_x(left), progress_to_y(top), secs_to_x(right)-secs_to_x(left), progress_to_y(bottom)-progress_to_y(top),
+    svg.rect(group, secs_to_x(left), percent_to_y(top), secs_to_x(right)-secs_to_x(left), percent_to_y(bottom)-percent_to_y(top),
              {class_:class_});
 }
 
@@ -149,8 +149,8 @@ function draw_completion_lines(svg, group, cleared_checkpoints) {
         } else {
             var left = 0;
         }
-        svg.line(g, secs_to_x(cp[0]), progress_to_y(1.0), secs_to_x(cp[0]), progress_to_y(cp[1]), {class_: 'progress_target_line'});
-        svg.line(g, secs_to_x(left), progress_to_y(cp[1]), secs_to_x(cp[0]), progress_to_y(cp[1]), {class_: 'progress_completion_line'});
+        svg.line(g, secs_to_x(cp[0]), percent_to_y(1.0), secs_to_x(cp[0]), percent_to_y(cp[1]), {class_: 'progress_target_line'});
+        svg.line(g, secs_to_x(left), percent_to_y(cp[1]), secs_to_x(cp[0]), percent_to_y(cp[1]), {class_: 'progress_completion_line'});
         svg.text(g, secs_to_x(cp[0]), -5, secs_to_timestamp(cp[0]));
         //chart.text(time, (time, -5), (chart.time_to_graph_x, None), group='completion')
     }
@@ -186,15 +186,24 @@ function draw_player_advantage(svg, group, player_advantage) {
 
 function draw_team_health(svg, group, team_health) {
     var g = svg.group(group, 'team_health');
-    draw_timeline(svg, g, team_health['visitor'], visitor_health_to_y, "team_health");
-    draw_timeline(svg, g, team_health['home'], home_health_to_y, "team_health");
+    var total_health_percent = [];
+    total_health_percent = team_health['visitor'].map(function(value, index) {
+        return [value[0], (value[1]+team_health['home'][index][1])/(12*3)]
+    });
+    //for (i in team_health['visitor']) {
+    //    console.log(team_health['visitor'][i]);
+    //    total_health_percent = total_health_percent.concat([team_health['visitor'][i][0], (team_health['visitor'][i][1]+team_health['home'][i][1])/(12*3)]);
+    //    console.log(total_health_percent);
+    // }
+    console.log(total_health_percent);
+    draw_timeline(svg, g, total_health_percent, percent_to_y, "team_health");
 }
 
 function draw_payload_progress(svg, group, payload_progress) {
     var g = svg.group(group, 'payload_progress');
     for (i in payload_progress) {
         var line = payload_progress[i];
-        draw_timeline(svg, g, line, progress_to_y, "progress");
+        draw_timeline(svg, g, line, percent_to_y, "progress");
     }
 }
 
