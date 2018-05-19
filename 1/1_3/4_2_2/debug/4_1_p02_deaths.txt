@@ -4,6 +4,6 @@ p02 dead from 03:57 to 04:06 frames 60
 p02 dead from 04:50 to 04:51 frames 58
 p02 dead from 04:52 to 04:59 frames 60
 p02 dead from 05:27 to 05:35 frames 57
-p02 dead from 06:29 to 06:39 frames 50
-p02 dead from 06:57 to 07:07 frames 54
+p02 dead from 06:29 to 06:39 frames 51
+p02 dead from 06:57 to 07:07 frames 59
 p02 dead from 07:33 to 07:42 frames 59
