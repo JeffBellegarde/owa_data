@@ -1,0 +1,16 @@
+vs "Los Angeles Gladiators" "San Francisco Shock"
+map 1 "blizzard-world" 2 0 https://www.twitch.tv/videos/262183719
+round 1 <start> <end>
+round 2 <start> <end>
+map 2 "horizon-lunar-colony" 3 2 https://www.twitch.tv/videos/262189106
+round 1 <start> <end>
+round 2 <start> <end>
+round 3 <start> <end>
+round 4 <start> <end>
+map 3 "lijiang" 2 0 https://www.twitch.tv/videos/262194476
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "gibraltar" 1 2 https://www.twitch.tv/videos/262206283
+round 1 3:11 10:16
+round 2 12:14 14:19
+

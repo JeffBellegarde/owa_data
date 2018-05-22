@@ -1,0 +1,4 @@
+p04 dead from 00:30 to 00:40 frames 48
+p04 dead from 05:30 to 05:39 frames 60
+p04 dead from 06:30 to 06:39 frames 58
+p04 dead from 06:56 to 07:02 frames 60

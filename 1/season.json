@@ -1003,24 +1003,138 @@ null
 2,
 3
 ],
+"rounds": [
+"1_3:4_2_2:4_1",
+"1_3:4_2_2:4_2"
+]
+}
+]
+}
+],
+[],
+[]
+],
+[
+[],
+[],
+[],
+[],
+[]
+]
+],
+[
+[
+[
+{
+"visitor": "Los Angeles Gladiators",
+"home": "San Francisco Shock",
+"score": [
+3,
+1
+],
+"maps": [
+{
+"name": "blizzard-world",
+"match_id": "1_4:1_1_1:1",
+"scores": [
+2,
+0
+],
+"rounds": []
+},
+{
+"name": "horizon-lunar-colony",
+"match_id": "1_4:1_1_1:2",
+"scores": [
+3,
+2
+],
+"rounds": []
+},
+{
+"name": "lijiang",
+"match_id": "1_4:1_1_1:3",
+"scores": [
+2,
+0
+],
+"rounds": []
+},
+{
+"name": "gibraltar",
+"match_id": "1_4:1_1_1:4",
+"scores": [
+1,
+2
+],
+"rounds": [
+"1_4:1_1_1:4_1",
+"1_4:1_1_1:4_2"
+]
+}
+]
+},
+{
+"visitor": "Seoul Dynasty",
+"home": "Los Angeles Valiant",
+"score": [
+2,
+3
+],
+"maps": [
+{
+"name": "blizzard-world",
+"match_id": "1_4:1_1_2:1",
+"scores": [
+3,
+1
+],
+"rounds": []
+},
+{
+"name": "horizon-lunar-colony",
+"match_id": "1_4:1_1_2:2",
+"scores": [
+0,
+1
+],
+"rounds": []
+},
+{
+"name": "lijiang",
+"match_id": "1_4:1_1_2:3",
+"scores": [
+0,
+2
+],
+"rounds": []
+},
+{
+"name": "gibraltar",
+"match_id": "1_4:1_1_2:4",
+"scores": [
+5,
+4
+],
+"rounds": [
+"1_4:1_1_2:4_1",
+"1_4:1_1_2:4_2",
+"1_4:1_1_2:4_3",
+"1_4:1_1_2:4_4"
+]
+},
+{
+"name": "nepal",
+"match_id": "1_4:1_1_2:5",
+"scores": [
+0,
+2
+],
 "rounds": []
 }
 ]
 }
 ],
-[],
-[]
-],
-[
-[],
-[],
-[],
-[],
-[]
-]
-],
-[
-[
 [],
 [],
 []

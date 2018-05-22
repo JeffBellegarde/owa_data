@@ -1,0 +1,6 @@
+p02 dead from 00:42 to 00:51 frames 60
+p02 dead from 03:09 to 03:17 frames 58
+p02 dead from 05:46 to 05:55 frames 60
+p02 dead from 06:17 to 06:18 frames 53
+p02 dead from 06:19 to 06:26 frames 53
+p02 dead from 06:56 to 07:02 frames 60

@@ -1,0 +1,6375 @@
+[
+{
+"type": "start",
+"offset": "00:00",
+"attacker": "San Francisco Shock"
+},
+{
+"type": "status",
+"time": "00:01",
+"payload_percent": 0.0,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:02",
+"payload_percent": 0.0,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:03",
+"payload_percent": 0.0,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:04",
+"payload_percent": 0.0,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:05",
+"payload_percent": 0.0,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:06",
+"payload_percent": 0.0,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:07",
+"payload_percent": 0.0,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:08",
+"payload_percent": 0.0,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:09",
+"payload_percent": 0.0143,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:10",
+"payload_percent": 0.0171,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:11",
+"payload_percent": 0.0286,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:12",
+"payload_percent": 0.04,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:13",
+"payload_percent": 0.04,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:14",
+"payload_percent": 0.0514,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:15",
+"payload_percent": 0.0629,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:16",
+"payload_percent": 0.0743,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:17",
+"payload_percent": 0.0771,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "skip",
+"time": "00:21"
+},
+{
+"type": "skip",
+"time": "00:22"
+},
+{
+"type": "status",
+"time": "00:23",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:24",
+"payload_percent": 0.1314,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:25",
+"payload_percent": 0.1429,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:26",
+"payload_percent": 0.1486,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:27",
+"payload_percent": 0.16,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:28",
+"payload_percent": 0.1714,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:29",
+"payload_percent": 0.1771,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:30",
+"payload_percent": 0.1829,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:31",
+"payload_percent": 0.2,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:32",
+"payload_percent": 0.2,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:33",
+"payload_percent": 0.2143,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:34",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:35",
+"payload_percent": 0.2229,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:36",
+"payload_percent": 0.2343,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:37",
+"payload_percent": 0.24,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:38",
+"payload_percent": 0.24,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 2
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:39",
+"payload_percent": 0.24,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 2
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:40",
+"payload_percent": 0.24,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 2
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:41",
+"payload_percent": 0.24,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:42",
+"payload_percent": 0.24,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 1
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:43",
+"payload_percent": 0.2457,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:44",
+"payload_percent": 0.2457,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:45",
+"payload_percent": 0.2457,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:46",
+"payload_percent": 0.2457,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 1
+},
+"p03": {
+"alive": true,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:47",
+"payload_percent": 0.2457,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:48",
+"payload_percent": 0.2457,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 2
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:49",
+"payload_percent": 0.2629,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 2
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:50",
+"payload_percent": 0.2686,
+"p01": {
+"alive": true,
+"health_level": 2
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 2
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 2
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:51",
+"payload_percent": 0.2686,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 2
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 2
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:52",
+"payload_percent": 0.28,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 2
+},
+"p05": {
+"alive": true,
+"health_level": 2
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 2
+},
+"p10": {
+"alive": true,
+"health_level": 2
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:53",
+"payload_percent": 0.28,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": false,
+"health_level": 0
+},
+"p05": {
+"alive": true,
+"health_level": 0
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 1
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:54",
+"payload_percent": 0.2857,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": false,
+"health_level": 0
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 2
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:55",
+"payload_percent": 0.2914,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": false,
+"health_level": 0
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 2
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:56",
+"payload_percent": 0.2971,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": false,
+"health_level": 0
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 2
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:57",
+"payload_percent": 0.3086,
+"p01": {
+"alive": true,
+"health_level": 2
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": false,
+"health_level": 0
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 2
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:58",
+"payload_percent": 0.3143,
+"p01": {
+"alive": true,
+"health_level": 2
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": false,
+"health_level": 0
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": false,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 2
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "00:59",
+"payload_percent": 0.32,
+"p01": {
+"alive": true,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": false,
+"health_level": 0
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": false,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 2
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:00",
+"payload_percent": 0.3257,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": false,
+"health_level": 0
+},
+"p05": {
+"alive": false,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 1
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 2
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:01",
+"payload_percent": 0.3314,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": false,
+"health_level": 0
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 2
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:02",
+"payload_percent": 0.3371,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": false,
+"health_level": 3
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:03",
+"payload_percent": 0.3371,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:04",
+"payload_percent": 0.3371,
+"p01": {
+"alive": false,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:05",
+"payload_percent": 0.3371,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:06",
+"payload_percent": 0.3371,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:07",
+"payload_percent": 0.3371,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:08",
+"payload_percent": 0.3371,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:09",
+"payload_percent": 0.3371,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:10",
+"payload_percent": 0.3429,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 2
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:11",
+"payload_percent": 0.3543,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 2
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 2
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:12",
+"payload_percent": 0.36,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:13",
+"payload_percent": 0.36,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 2
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 2
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:14",
+"payload_percent": 0.3629,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 2
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:15",
+"payload_percent": 0.3771,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 2
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:16",
+"payload_percent": 0.3771,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 2
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:17",
+"payload_percent": 0.3943,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:18",
+"payload_percent": 0.4,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:19",
+"payload_percent": 0.4057,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 1
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:20",
+"payload_percent": 0.4057,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 0
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:21",
+"payload_percent": 0.4171,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 0
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 2
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:22",
+"payload_percent": 0.4229,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 0
+},
+"p03": {
+"alive": true,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 2
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:23",
+"payload_percent": 0.4286,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 0
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 2
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:24",
+"payload_percent": 0.44,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 0
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:25",
+"payload_percent": 0.4514,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 0
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:26",
+"payload_percent": 0.4514,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 0
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:27",
+"payload_percent": 0.4514,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 0
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:28",
+"payload_percent": 0.4686,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 0
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 2
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:29",
+"payload_percent": 0.4743,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 0
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 2
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:30",
+"payload_percent": 0.4857,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 2
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:31",
+"payload_percent": 0.4914,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": false,
+"health_level": 0
+},
+"p04": {
+"alive": true,
+"health_level": 2
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:32",
+"payload_percent": 0.4971,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 2
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:33",
+"payload_percent": 0.5029,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 2
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:34",
+"payload_percent": 0.5086,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:35",
+"payload_percent": 0.5143,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:36",
+"payload_percent": 0.52,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:37",
+"payload_percent": 0.5314,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:38",
+"payload_percent": 0.5371,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:39",
+"payload_percent": 0.5429,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:40",
+"payload_percent": 0.5486,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:41",
+"payload_percent": 0.5543,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:42",
+"payload_percent": 0.5657,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:43",
+"payload_percent": 0.5714,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:44",
+"payload_percent": 0.5714,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:45",
+"payload_percent": 0.5714,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 2
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:46",
+"payload_percent": 0.5886,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:47",
+"payload_percent": 0.5886,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 2
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:48",
+"payload_percent": 0.5914,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:49",
+"payload_percent": 0.5971,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:50",
+"payload_percent": 0.5971,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": true,
+"health_level": 2
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:51",
+"payload_percent": 0.6,
+"p01": {
+"alive": false,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 2
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": true,
+"health_level": 2
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:52",
+"payload_percent": 0.6,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 2
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": true,
+"health_level": 2
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 2
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 1
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:53",
+"payload_percent": 0.6,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 2
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:54",
+"payload_percent": 0.6,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 1
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": false,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 2
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 2
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:55",
+"payload_percent": 0.6,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 3
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:56",
+"payload_percent": 0.6057,
+"p01": {
+"alive": false,
+"health_level": 0
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 2
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 1
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:57",
+"payload_percent": 0.6,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 2
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 2
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:58",
+"payload_percent": 0.6,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 0
+},
+"p05": {
+"alive": false,
+"health_level": 0
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 2
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "01:59",
+"payload_percent": 0.6,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 2
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 0
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "02:00",
+"payload_percent": 0.6,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": true,
+"health_level": 0
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": true,
+"health_level": 0
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "02:01",
+"payload_percent": 0.6,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 0
+},
+"p03": {
+"alive": true,
+"health_level": 2
+},
+"p04": {
+"alive": false,
+"health_level": 0
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 0
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "02:02",
+"payload_percent": 0.6,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 0
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": false,
+"health_level": 0
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": false,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "02:03",
+"payload_percent": 0.6,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 0
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": false,
+"health_level": 3
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "02:04",
+"payload_percent": 0.0,
+"p01": {
+"alive": true,
+"health_level": 3
+},
+"p02": {
+"alive": false,
+"health_level": 3
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": false,
+"health_level": 1
+},
+"p05": {
+"alive": true,
+"health_level": 3
+},
+"p06": {
+"alive": true,
+"health_level": 3
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 3
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 3
+},
+"p12": {
+"alive": true,
+"health_level": 3
+}
+},
+{
+"type": "status",
+"time": "02:04",
+"payload_percent": 0.0,
+"p01": {
+"alive": true,
+"health_level": 2
+},
+"p02": {
+"alive": true,
+"health_level": 0
+},
+"p03": {
+"alive": true,
+"health_level": 3
+},
+"p04": {
+"alive": true,
+"health_level": 0
+},
+"p05": {
+"alive": true,
+"health_level": 2
+},
+"p06": {
+"alive": true,
+"health_level": 2
+},
+"p07": {
+"alive": true,
+"health_level": 3
+},
+"p08": {
+"alive": true,
+"health_level": 2
+},
+"p09": {
+"alive": true,
+"health_level": 3
+},
+"p10": {
+"alive": true,
+"health_level": 3
+},
+"p11": {
+"alive": true,
+"health_level": 2
+},
+"p12": {
+"alive": true,
+"health_level": 2
+}
+}
+]

@@ -1,0 +1,18 @@
+vs "Seoul Dynasty" "Los Angeles Valiant"
+map 1 "blizzard-world" 3 1 https://www.twitch.tv/videos/262218510
+round 1 <start> <end>
+round 2 <start> <end>
+map 2 "horizon-lunar-colony" 0 1 https://www.twitch.tv/videos/262223651
+round 1 <start> <end>
+round 2 <start> <end>
+map 3 "lijiang" 0 2 https://www.twitch.tv/videos/262226651
+round 1 <start> <end>
+round 2 <start> <end>
+map 4 "gibraltar" 5 4 https://www.twitch.tv/videos/262239186
+round 1 5:49 10:27
+round 2 12:23 18:21
+round 3 19:48 22:21
+round 4 23:48 28:39
+map 5 "nepal" 0 2 https://www.twitch.tv/videos/262249517
+round 1 <start> <end>
+round 2 <start> <end>

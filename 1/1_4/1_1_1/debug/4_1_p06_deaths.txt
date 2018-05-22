@@ -1,0 +1,6 @@
+p06 dead from 01:25 to 01:31 frames 60
+p06 dead from 03:03 to 03:04 frames 60
+p06 dead from 03:05 to 03:12 frames 49
+p06 dead from 03:32 to 03:34 frames 57
+p06 dead from 03:35 to 03:42 frames 53
+p06 dead from 06:45 to 06:57 frames 58

@@ -1,0 +1,14 @@
+p03 dead from 00:47 to 00:56
+p06 dead from 00:52 to 01:01
+p04 dead from 00:53 to 01:03
+p05 dead from 00:54 to 01:03
+p01 dead from 01:00 to 01:09
+p06 dead from 01:11 to 01:20
+p02 dead from 01:21 to 01:30
+p03 dead from 01:23 to 01:28
+p03 dead from 01:29 to 01:32
+p01 dead from 01:48 to 01:57
+p05 dead from 01:50 to 01:59
+p06 dead from 01:53 to 02:03
+p02 dead from 02:01 to 02:04
+p04 dead from 02:01 to 02:04
